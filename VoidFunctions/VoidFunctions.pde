@@ -1,11 +1,6 @@
-int r, g, b;
-
 void setup() {
   size(800, 800);
   background(0);
-  r = 0;
-  g = 255;
-  b = 0;
 }
 
 void draw() {
